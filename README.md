@@ -4,7 +4,7 @@
 <br>
 
 ![](/resources/icegif-1037.gif)
-<img src="https://github.com/abdocado/abdocado/blob/main/resources/icegif-1037.gif" width="300" height="500" />
+<img src="https://github.com/abdocado/abdocado/blob/main/resources/icegif-1037.gif" width="300" height="300" align="right"/>
 
 
 ## 💡 Socials
