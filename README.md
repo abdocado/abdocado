@@ -1,7 +1,7 @@
 # 👋 Heyo! I am Abdullah
 
 
-<font size="5">
+<font size="8">
     🧑‍💻 Current Role: Digital Systems Engineer
     <br>
     🌱 Currently Learning: DevOps Practices and Tools
