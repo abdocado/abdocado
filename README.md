@@ -46,7 +46,7 @@ Hey! I am a Computer Science graduate, I want to help contribute to the digital 
     <img title="Ansible" alt="Ansible" src="/resources/ansible.png" width="200" style="vertical-align:down; margin:4px"/>
     <img title="Chef" alt="Chef" src="/resources/chef.png" width="200" style="vertical-align:down; margin:4px"/>
     <img title="CircleCI" alt="CircleCI" src="/resources/CircleCI.png" width="200" style="vertical-align:down; margin:4px"/>
-    <img title="Jenkins" alt="Jenkins" src="/resources/jenkins.png" width="100" style="vertical-align:down; margin:4px"/>
+    <img title="Jenkins" alt="Jenkins" src="/resources/jenkinsmain.png" width="50" style="vertical-align:down; margin:4px"/>
     <img title="Jira" alt="Jira" src="/resources/jira.png" width="200" style="vertical-align:down; margin:4px"/>
     <img title="Kubernetes" alt="Kubernetes" src="/resources/kubernetes.png" width="200" style="vertical-align:down; margin:4px"/>
     <img title="Puppet" alt="Puppet" src="/resources/puppet.png" width="200" style="vertical-align:down; margin:4px"/>
