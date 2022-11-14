@@ -60,7 +60,7 @@ Hey! I am a Computer Science graduate, I want to help contribute to the digital 
 
 [![](https://github-readme-stats.vercel.app/api?username=abdocado&&hide=stars&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+<br>
 
-If you like my work, please show support by getting me an avocado 🥑
-
+# If you like my work, please show support by getting me an avocado 🥑
 <a href=https://www.buymeacoffee.com/abdullaharM><img src="/resources/store.png" alt="Buy me an avocado!" width="600" height="100"></a>
