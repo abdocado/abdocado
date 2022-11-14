@@ -1,56 +1,36 @@
-## Heyo! I am Abdullah
+# 👋 Heyo! I am Abdullah
 ## 🧑‍💻 Current Role: Digital Systems Engineer
-## 🌱 I am currently learning: DevOps practices and tools
+## 🌱 Currently Learning: DevOps Practices and Tools
+<br>
+
+![](/resources/icegif-1037.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 
+## 💡 Socials
+<br>
+
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aalromaihi/">
-  <img align="left" alt="Abdullah's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="middle" alt="Abdullah's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/AbdulllahAR_">
+  <img align="middle" alt="Abhishek Naidu | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<br><br>
+<br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabdocado%2Fabdocado.git&label=visitors&countColor=%23d9e3f0)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabdocado%2Fabdocado.git&label=Visitors&countColor=%23ba68c8)
 
+<br/>
 
-<!--
-**abdocado/abdocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I am a Computer Science graduate, I want to help contribute to the digital world, one bit at a time. I am passionate about how technology works to help us reach our needs on a day to day basis, that includes everything from IoT to web apps! I am highly interested in the cloud infrastructure, how to develop and operate applications and the servers themselves. I am currently reading about DevOps and Cybersecurity in hopes to get a job as a DevSecOps in the near future.
 
-Here are some ideas to get you started:
+**If you have any questions, please don't hesitate to [email](mailto:abdullah.arjobs@gmail.com) me.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<br />
-
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
-
+<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -78,18 +58,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
+## 📈 Github Statistics
+<br>
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
+[![](https://github-readme-stats.vercel.app/api?username=abdocado&&hide=stars&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
