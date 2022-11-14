@@ -1,11 +1,6 @@
 # 👋 Heyo! I am Abdullah
 ## 🧑‍💻 Current Role: Digital Systems Engineer
 ## 🌱 Currently Learning: DevOps Practices and Tools
-<br>
-
-
-
-
 ## 💡 Socials
 <br>
 
