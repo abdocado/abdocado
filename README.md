@@ -1,9 +1,13 @@
-## 👋 Heyo! I am Abdullah
-## 🧑‍💻 Current Role: Digital Systems Engineer
----
-## 🌱 Currently Learning: DevOps Practices and Tools
-<font size="5">💡 Socials</font>
+# 👋 Heyo! I am Abdullah
 
+
+<font size="5">
+    🧑‍💻 Current Role: Digital Systems Engineer
+    <br>
+    🌱 Currently Learning: DevOps Practices and Tools
+    <br>
+    💡 Socials
+</font>
 
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aalromaihi/">
