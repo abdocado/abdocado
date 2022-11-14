@@ -1,6 +1,7 @@
 # 👋 Heyo! I am Abdullah
-##    🧑‍💻 Current Role: Digital Systems Engineer <br> 🌱 Currently Learning: DevOps Practices and Tools <br> 💡 Socials
+##    🧑‍💻 Current Role: Digital Systems Engineer <br> 🌱 Currently Learning: DevOps Practices and Tools
 
+**💡 Socials**
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aalromaihi/">
   <img align="middle" alt="Abdullah's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
