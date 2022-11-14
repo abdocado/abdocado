@@ -62,5 +62,6 @@ Hey! I am a Computer Science graduate, I want to help contribute to the digital 
 <br>
 <br>
 
-# If you like my work, please show support by getting me an avocado 🥑
+<font size="4">**If you like my work, please show support by getting me an avocado 🥑**</font>
+<br>
 <a href=https://www.buymeacoffee.com/abdullaharM><img src="/resources/store.png" alt="Buy me an avocado!" width="600" height="100"></a>
