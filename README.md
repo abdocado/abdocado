@@ -25,7 +25,7 @@ Hey! I am a Computer Science graduate, I want to help contribute to the digital 
 
 ### My skills include
 <p align="center">
-	<img title="Hadoop" alt="Hadoop" src="/resources/java.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Hadoop" alt="Hadoop" src="/resources/java-60-1174953.webp" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
