@@ -39,7 +39,7 @@ Hey! I am a Computer Science graduate, I want to help contribute to the digital 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href=https://www.buymeacoffee.com/abdullaharM><img src="/resources/avocad.png" alt="Buy me an avocado!" width="150"></a>
+<a href=https://www.buymeacoffee.com/abdullaharM><img src="/resources/avocad.png" alt="Buy me an avocado!" width="150" height="300"></a>
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
