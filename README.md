@@ -12,11 +12,12 @@
 <a href="https://twitter.com/AbdulllahAR_">
   <img align="middle" alt="Abdullah's Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<img src="https://github.com/abdocado/abdocado/blob/main/resources/icegif-1037.gif" width="350" height="250" align="right"/>
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabdocado%2Fabdocado.git&label=Visitors&countColor=%23ba68c8)
 
-<img src="https://github.com/abdocado/abdocado/blob/main/resources/icegif-1037.gif" width="350" height="250" align="right"/>
+
 
 Hey! I am a Computer Science graduate, I want to help contribute to the digital world, one bit at a time. I am passionate about how technology works to help us reach our needs on a day to day basis, that includes everything from IoT to web apps! I am highly interested in the cloud infrastructure, how to develop and operate applications and the servers themselves. I am currently reading about DevOps and Cybersecurity in hopes to get a job as a DevSecOps in the near future.
 
