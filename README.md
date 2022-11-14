@@ -32,7 +32,7 @@ Hey! I am a Computer Science graduate, I want to help contribute to the digital 
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
-    <img title="Slack" alt="Slack" src="/resources/slack.png" width="60" height="40" style="vertical-align:down; margin:4px"/>
+    <img title="Slack" alt="Slack" src="/resources/slack.png" width="50" style="vertical-align:down; margin:4px"/>
 
 </p>
 
@@ -41,17 +41,16 @@ Hey! I am a Computer Science graduate, I want to help contribute to the digital 
 ## Currently learning
 
 <p align="center">
-    <img title="Docker" alt="Docker" src="/resources/Moby-logo-sm.webp" width="60" height="40" style="vertical-align:down; margin:4px"/>
+    <img title="Docker" alt="Docker" src="/resources/Moby-logo-sm.webp" width="50" style="vertical-align:down; margin:4px"/>
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
-    <img title="Ansible" alt="Ansible" src="/resources/ansible.png" width="60" height="40" style="vertical-align:down; margin:4px"/>
-    <img title="Chef" alt="Chef" src="/resources/chef.png" width="60" height="40" style="vertical-align:down; margin:4px"/>
-    <img title="CircleCI" alt="CircleCI" src="/resources/CircleCI.png" width="60" height="40" style="vertical-align:down; margin:4px"/>
-    <img title="Jenkins" alt="Jenkins" src="/resources/jenkinsmain.png" width="60" height="40" style="vertical-align:down; margin:4px"/>
-    <img title="Jira" alt="Jira" src="/resources/jira.png" width="60"
-    height="40" style="vertical-align:down; margin:4px"/>
-    <img title="Kubernetes" alt="Kubernetes" src="/resources/kubernetes.png" width="60" height="40" style="vertical-align:down; margin:4px"/>
-    <img title="Puppet" alt="Puppet" src="/resources/puppet.png" width="60" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Splunk" alt="Splunk" src="/resources/splunk.png" width="60" height="40" style="vertical-align:down; margin:4px"/>
+    <img title="Ansible" alt="Ansible" src="/resources/ansible.png" width="50" style="vertical-align:down; margin:4px"/>
+    <img title="Chef" alt="Chef" src="/resources/chef.png" width="50" style="vertical-align:down; margin:4px"/>
+    <img title="CircleCI" alt="CircleCI" src="/resources/CircleCI.png" width="50" style="vertical-align:down; margin:4px"/>
+    <img title="Jenkins" alt="Jenkins" src="/resources/jenkinsmain.png" width="50" style="vertical-align:down; margin:4px"/>
+    <img title="Jira" alt="Jira" src="/resources/jira.png" width="50" style="vertical-align:down; margin:4px"/>
+    <img title="Kubernetes" alt="Kubernetes" src="/resources/kubernetes.png" width="50" style="vertical-align:down; margin:4px"/>
+    <img title="Puppet" alt="Puppet" src="/resources/puppet.png" width="50" style="vertical-align:down; margin:4px"/>
+	<img title="Splunk" alt="Splunk" src="/resources/splunk.png" width="50" style="vertical-align:down; margin:4px"/>
 	
 </p>
 
